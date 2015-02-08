@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    background-color:#EAEAEA
+}
+.nav{
+
+	position: fixed;
+
+   	top: 0;
+}
+a:link{
+	text-decoration: none;
+	color: #2E2E2E;
+}
+.homeSection h2{
+font-family: 'Lobster';
+}
+
+.homeSection{
+	text-align: center;
+	height: 600px;
+	margin: 0;
+	padding: 200px 0 260px 0;
+}
+
+
+.aboutSection{
+	text-align: center;
+	height: 600px;
+	margin: 0;
+	padding: 200px 0 260px 0;
+}
+
+
+.skillSection{
+	text-align: center;
+	height: 600px;
+	margin: 0;
+	padding: 200px 0 260px 0;
+}
+
+.contactSection{
+	text-align: center;
+	height: 600px;
+	margin: 0;
+	padding: 200px 0 260px 0;
+}
