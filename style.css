@@ -6,27 +6,37 @@
 .nav{
 
 	position: fixed;
-
+	padding-left:35px;
+	padding-top:10px;
    	top: 0;
+   	word-spacing:50px;
 }
 a:link{
+	font-family: 'Quicksand';
 	text-decoration: none;
 	color: #2E2E2E;
+	font-size:30px;
 }
+a:hover{
+	color: #1B568D;
+}
+
 .homeSection h2{
-font-family: 'Lobster';
+	font-family: 'Lobster';
+	font-size:60px;
 }
 
 .homeSection{
 	text-align: center;
-	height: 600px;
+	height: 800px;
 	margin: 0;
 	padding: 200px 0 260px 0;
 }
 
-
-.aboutSection{
-	text-align: center;
+.aboutSection h2{
+	text-align: left;
+}
+.aboutSection {
 	height: 600px;
 	margin: 0;
 	padding: 200px 0 260px 0;
@@ -45,4 +55,8 @@ font-family: 'Lobster';
 	height: 600px;
 	margin: 0;
 	padding: 200px 0 260px 0;
+}
+
+.contactSection h2{
+	text-align: left;
 }
